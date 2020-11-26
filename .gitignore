@@ -1,0 +1,5 @@
+contracts/compiled/*
+.DS_Store
+contracts/deploy.js
+contracts/interact.js
+dependencies/*
